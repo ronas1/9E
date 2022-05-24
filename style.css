@@ -323,6 +323,24 @@ div.menu-ul li {
 	background-color: #f8f8f8
 }
 
+
+malta, section {
+    float:left;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.malta{
+    width:15%;
+    font-family:arial;
+    font-size:12px;
+    border:2px solid #f2f2f2;
+}
+
+
+
+
+
 html,
 body,
 div,
